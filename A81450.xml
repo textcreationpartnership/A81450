@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last true newes from Yorke, Nottingham, Coventry and Warwicke: or all the speciall passages and occurences in these parts, from the 24 of August, to the 4 of September, 1642. Amongst which is related the commissions sent by his Majesty, under the broad seale of England, to the Earle of Cumberland, for the speedy raising of all the trained bands, both of horse and foot, in York-shire, Lancashire, Cumberland, Westmerland, and Northumberland, to serve the King against the Parliament. As also of the great distractions in the city of Yorke, at this preseut [sic], worthy of observation. Sent in a letter to informe those that stand well affected to the King and Parliament, Sep. 4. 1642.</title>
+            <author>Dickenson, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81450</idno>
+            <idno type="STC">Wing D1383</idno>
+            <idno type="STC">Thomason E116_9</idno>
+            <idno type="STC">ESTC R5942</idno>
+            <idno type="EEBO-CITATION">99872927</idno>
+            <idno type="PROQUEST">99872927</idno>
+            <idno type="VID">156035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156035)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last true newes from Yorke, Nottingham, Coventry and Warwicke: or all the speciall passages and occurences in these parts, from the 24 of August, to the 4 of September, 1642. Amongst which is related the commissions sent by his Majesty, under the broad seale of England, to the Earle of Cumberland, for the speedy raising of all the trained bands, both of horse and foot, in York-shire, Lancashire, Cumberland, Westmerland, and Northumberland, to serve the King against the Parliament. As also of the great distractions in the city of Yorke, at this preseut [sic], worthy of observation. Sent in a letter to informe those that stand well affected to the King and Parliament, Sep. 4. 1642.</title>
+                  <author>Dickenson, Henry.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 7. London Printed for Iohn Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page [8]: "Henry Dickenson".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>Coventry (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Nottingham (England) --  History --  Early works to 1800.</term>
+               <term>Warwick (England) --  History --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156035:1" rendition="simple:additions"/>
+            <p>The laſt true Newes from <hi>Yorke, Nottingham, Coventry</hi> and <hi>Warwicke:</hi> Or all the ſpeciall Paſſages and Occurrences in theſe parts, from the 24 of <hi>Auguſt,</hi> to the 4 of <hi>September,</hi> 1642.</p>
+            <p>Amongſt which is related the Commisſions ſent by his Majeſty, under the broad Seale of Eng<g ref="char:EOLhyphen"/>land, to the Earle of <hi>Cumberland,</hi> for the ſpeedy raiſing of all the Trained Bands, both of Horſe and Foot, in <hi>York-ſhire, Lancaſhire, Cumberland, Weſtmerland,</hi> and <hi>Northumberland,</hi> to ſerve the King againſt the Parliament.</p>
+            <p>As alſo of the great diſtractions in the City of <hi>Yorke,</hi> at this preſent, worthy of obſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>Sent in a Letter to informe thoſe that ſtand well affected to the King and Parliament, <hi>Sep.</hi> 4. 1642.</p>
+            <p>
+               <hi>Septemb.</hi> 7. London Printed for <hi>Iohn Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156035:2"/>
+            <pb facs="tcp:156035:2"/>
+            <head>Newes from <hi>Yorke, Nottingham, Co<g ref="char:EOLhyphen"/>ventry,</hi> and <hi>Warwicke,</hi> Septem. 1, 1642.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>FIrſt my reſpect, next I ſhall acquaint you with ſuch paſſages or other occurrences, as hath come to me, either by obſervation or other intelligence, in theſe times of diſtraction. <hi>Auguſt</hi> 24. A Poſt came to <hi>Yorke,</hi> that 24. peeces of Ordnance and 100000 <hi>li.</hi> in money, was landed at <hi>Newcastle,</hi> brought from <hi>Holland</hi> by Prince <hi>Robert,</hi> for his Majeſties ſeruice. And a command came to <hi>Yorke</hi> to the Earle of <hi>Cumberland,</hi> (now made Lieutenant Generall of <hi>Yorkeſhire</hi>) to ſend his Troope of Horſe to conduct theſe Ordnance, and monies to the King, which was diſ<g ref="char:EOLhyphen"/>patched away with all expedition.</p>
+            <p>This day his Majeſty cauſed his Declaration to be pub<g ref="char:EOLhyphen"/>liſhed, in Anſwer to the Declaration of the Lords and Commons, <hi>For the Rayſing of all power and force, as well Trained bands, as o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hers, in ſeverall Counties of this Kingdome, to lead againſt all Traytors and their adherents, &amp;c.</hi> Wherein his Majeſty requires all his Commiſſioners of Array, Sheriffes, and all other Officers and Miniſters, to raiſe all the power and forces of their ſeverall Counties, to aſſiſt the Marqueſſe of <hi>Hertford,</hi> the Earle of <hi>Northampton,</hi> the Lord <hi>Willoughby</hi> of <hi>Ereſby,</hi> the Lord <hi>Paulet,</hi> the Lord <hi>Sey<g ref="char:EOLhyphen"/>mour,</hi> the Lord <hi>Dunſmore, Henry Hastings</hi> Equire, Sir <hi>John Stowell,</hi> Sir <hi>Ralph Hopton, Iohn Digby</hi> Eſquire, and all others in the Legall and neceſſary executing of his Commiſſions of Array, and in the rayſing and conducting of ſuch horſe and foot, as ſhall be raiſed by his Commiſſion, and by force of Ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to oppoſe the Earl of <hi>Eſſex,</hi> the Lord <hi>Say;</hi>
+               <pb facs="tcp:156035:3"/> and all other that ſhall raiſe or conduct any forces raiſed by pretence of Authority of Parliament, and the perſons of all ſuch Traytors, and their adherents, and accompli<g ref="char:EOLhyphen"/>ces, to arreſt and impriſon; to the end they may be brought to a faire and legall tryall, by their Peers, and according to the Law, this he requires from them, as they tender the defence of his perſon, the true Religion, the Law of the Land, the liberty of the Subject, and the juſt priviledges of Parliament. And for ſo doing, they ſhall be defended and ſecured by him, and by the Law with whom, and with which, he doubts not, but that his Subjects will ſooner live and dye, then with the Earle of <hi>Eſsex,</hi> and his adherents,</p>
+            <p>Thurſday 25. of <hi>Auguſt,</hi> 8. great peeces of Ordnance with other carriages, was conducted from <hi>Yorke</hi> to <hi>Notting<g ref="char:EOLhyphen"/>ham</hi> to his Majeſty, alſo divers Troopes of Horſe accom<g ref="char:EOLhyphen"/>panied them this night.</p>
+            <p>This afternoon his Majeſty ſent his Commiſſion to the E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rle of <hi>Cumberland,</hi> and that he was content his Troope ſhould ſtay at <hi>Yorke</hi> as was deſired by the Gentry of the County. Alſo that the reſt of the Troopes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ehind, ſhould be h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtened to his Majeſty with all expedition, and that the Earles Troope which ſtayes, ſhould countenance and pro<g ref="char:EOLhyphen"/>tect his Magazine going from hence, and in caſe in his ab<g ref="char:EOLhyphen"/>ſence, any more Munition come from <hi>Holland,</hi> that they, together with the Trained-bands, ſhould ſecure it to the edge of <hi>Yorkſhire,</hi> towards <hi>Nottingham,</hi>
+            </p>
+            <p>Alſo his Majeſty deſires that all his Field-peeces, may be conducted from <hi>Yorke</hi> to <hi>Nottingham,</hi> in regard he was ſo much oppoſed at <hi>Warwicke</hi> and <hi>Coventry,</hi> all the Troops remaining here, are gon this night towards his Majeſty, and divers companies of Volunteers follow'd the next day.</p>
+            <p>Friday <hi>Auguſt</hi> 26. Sir <hi>William Savile,</hi> brought 24. light Horſe to <hi>Yorke,</hi> which he hath provided for his Majeſties ſervice at his owne charge, and hath made Sir <hi>Thomas Dal<g ref="char:EOLhyphen"/>liſon</hi>
+               <pb facs="tcp:156035:3"/> Captaine of them, and ſent to <hi>Nottingham</hi> the next day. This morning the Lord <hi>Fall land,</hi> the Secretary of State, accompanied with many Gentlemen and Cavaliers, left this City and is gone to his Majeſty.</p>
+            <p>Information came this day to <hi>Yorke</hi> from <hi>Portſmouth,</hi> that Colonell <hi>Goring</hi> hath ſlaine 400. men with his Can<g ref="char:EOLhyphen"/>non, which is good newes to the Cavaliers.</p>
+            <p>My Lord <hi>Fairefax</hi> was threatned by ſome of the Cava<g ref="char:EOLhyphen"/>liers, that they would pillage his houſe if he ſtayed there, ſo that he is forced to ſet a guard about his houſe at <hi>Den<g ref="char:EOLhyphen"/>ton,</hi> yet all the Country about him, for 15. or 16. miles ſtands for him, and will protect him againſt any violence, they are wel-affected to the King and Parliament, and eſpe<g ref="char:EOLhyphen"/>cially the great Townes thereabouts, as <hi>Wakefield, Leedes, Hallifax, Bradford,</hi> and <hi>Otley,</hi> and in <hi>Hallifax,</hi> when Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Savile</hi> came there to raiſe ſome Volunteers for his Majeſty, they turned him out of the Towne, and not a man would obey him.</p>
+            <p>Some Aldermen of this City, that are affected to King &amp; Parliament, were threatned likewiſe by the Cavaliers, and have left their houſes in <hi>Yorke,</hi> and ſome others of quality, as namely, Alderman <hi>Hoyle,</hi> Alderman <hi>Vaus,</hi> and Sir <hi>Io. Bourch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</hi>
+            </p>
+            <p>Saturday 27. the Earle of <hi>Cumberland</hi> cauſed a Declara<g ref="char:EOLhyphen"/>tion to be publiſhed in Print in his name, and in the names of the Gentry of <hi>York<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhire,</hi> and to be read in all the Chur<g ref="char:EOLhyphen"/>ches of this County, thereby to incite and ſtir up the peo<g ref="char:EOLhyphen"/>ple of this County, to be ayding and aſſiſting to his Maje<g ref="char:EOLhyphen"/>ſty, and to ſhow their willingneſſe in contributing of mo<g ref="char:EOLhyphen"/>ney, for the rayſing of Horſe and foot to ſecure the coun<g ref="char:EOLhyphen"/>ty in his Majeſties abſence, and to withſtand Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham,</hi> if he ſhall make any incurſion out of <hi>Hull</hi> into this County, but the Country people are unwilling in di<g ref="char:EOLhyphen"/>vers places, and I beleeve they will raiſe but a ſlender ſum.</p>
+            <pb facs="tcp:156035:4"/>
+            <p>Monday <hi>Auguſt</hi> 29. my Lord of <hi>Cumberland</hi> cauſed the percullis at every gate in <hi>Yorke</hi> to be let downe, and to bee made ready if occaſion required, and the Keyes of the gates are every right brought to the Lord Major, who cauſes a guard of the Trained-band to keepe watch there.</p>
+            <p>Some Morter-peeces were this day caſt in <hi>Yorke</hi> by one <hi>Lanayon</hi> a <hi>Corniſh</hi> man, who lives in <hi>London,</hi> and hath beene practizing this two moneths, yet brought nothing to per<g ref="char:EOLhyphen"/>fection untill now, great ſtore of carriages is making here, for the Cannon that came from <hi>Newcaſtle</hi> and other places.</p>
+            <p>The City of <hi>Yorke</hi> is in great feare of being ſurprized by Sir <hi>Iohn Hotham,</hi> for reports came hither from about <hi>Hull,</hi> that 700. men are landed there, which were ſent from the Parliament, yet the third part of the City ſtand well affe<g ref="char:EOLhyphen"/>cted to the Parliament.</p>
+            <p>Tueſday, the 30 of Auguſt, Poſts came from his Ma<g ref="char:EOLhyphen"/>jeſty at Nottingham, to the Earle of Cumberland, with Commiſſions under the Broad Seale of England, for the ſpeedy raiſing of all the Trained Bands (both of Horſe and Foot) in <hi>Yorkſhire, Lancaſhire, Weſtmerland, Cumber<g ref="char:EOLhyphen"/>land,</hi> and <hi>Northumberland,</hi> for aſſiſtance of the King, in re<g ref="char:EOLhyphen"/>gard the Meſſage ſent by the Earles of <hi>South-Hampton</hi> and <hi>Dorſet,</hi> Sir <hi>Iohn Culpepper,</hi> and Sir <hi>William Uvedall,</hi> were re<g ref="char:EOLhyphen"/>jected by the Parliamant.</p>
+            <p>This day one M. <hi>Robinſon</hi> that lives neere <hi>Yorke,</hi> com<g ref="char:EOLhyphen"/>ming from London, was apprehended by the Kings forces and carryed away as priſoner, and is ſtill deteined, great inſolencies are committed by the Cavaliers about <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and in all other places where they make their Rand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vous, that it is probable, if peace bee not ſhortly concluded on betwixt King and Parliament, the Commo<g ref="char:EOLhyphen"/>nalty of this Kingdome will be utterly ruined, for diverſe mens Houſes in <hi>Nottinghamſhire, Yorkſhire,</hi> and other Counties, are plundered, ſome burned, others pillaged, &amp;
+<pb facs="tcp:156035:4"/> Woemen raviſhed, all which are the fore-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unners of the miſery of a Civill war, from which, God of his infinite Mercy deliver this N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion.</p>
+            <p>This day the Earle of <hi>Cumberland</hi> ſent ſummons to the County of <hi>Yorkſhire,</hi> for all the Horſe and Foot of the Trained Bands, to meet at <hi>Heyworth</hi> Moore, on <hi>Friday, Septemb.</hi> 2. <hi>Wedneſday,</hi> the laſt of <hi>Auguſt,</hi> a Lettet came from <hi>Beverly</hi> to the Lord Maior of <hi>Yorke,</hi> to looke to himſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfe, and the City, for <hi>Sir John Hotham</hi> did intend to march with his forces out of <hi>Hull</hi> towards it, and that hee was made Lieutenant of Yorkſhire by the Parliament, whereupon there was a great meeting at the Towne Hall for the defence of the City, and the Earle of <hi>Cumberland</hi> was ſent for, whereupon it was agreed by them that the 3 Troopes of Horſe ſhould be quartered in the City, <hi>viz.</hi> The Earles Troope, Sir <hi>Iohn Gothericks</hi> Troope, and Sir <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Gibſons</hi> Troope, and the Trained Bands to bee exerci<g ref="char:EOLhyphen"/>ſed and in readineſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, this was the Faſt they kept this day.</p>
+            <p>Thurſday the firſt of <hi>September,</hi> the Earle of <hi>Cumberland</hi> ſent for the Lord Major, and the Court of Aldermen, and common Councell of the City, to meet ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine at the Towne-hall, but there was but a ſlender appearance, for a<g ref="char:EOLhyphen"/>bove halfe of the Aldermen and common Councell men abſented themſelves, ſo that there was a diſtraction in the City; and the Earle gave out ſpeeches, that ſeeing the Ci<g ref="char:EOLhyphen"/>ty was divided, and a third part of it ſtood affected to the Parliament, he would leave it, and betake himſelfe to <hi>Pom<g ref="char:EOLhyphen"/>frait</hi> Caſtle and protect himſelfe, for if any aſſault was made upon the City, they ſhould be ſurprized, in regard all would not adhere to him, and beſides it was not defen<g ref="char:EOLhyphen"/>ſible.</p>
+            <p>This day his Majeſty ſent for his Printer at <hi>York</hi> to come to <hi>Nottingham,</hi> news came alſo to <hi>York,</hi> that the 8. peeces of Ordnance (that his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſty ſent for from thence) lyes
+<pb facs="tcp:156035:5"/> ſtill at <hi>Doncaſter;</hi> and they can get no carriages for the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to convey them to <hi>Nottingham,</hi> alſo that ſome of the car<g ref="char:EOLhyphen"/>riages belonging to them were broken.</p>
+            <p>Friday ſecond of <hi>September,</hi> was a great me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting both o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horſe and Foot on <hi>Heyworth-more,</hi> out of the County of <hi>Yorke,</hi> of the Trained-bands, alſo the Trained of the City appeared there to ſhew their Armes, the Earle of <hi>Cumber<g ref="char:EOLunhyphen"/>land</hi> was there with the Lord Major of <hi>Yo ke,</hi> and after, view taken of their Armes, they were all ſummoned to meet at the Common-hall by two a clocke the ſame day, there, to give in their names who would ſtand for the King and who for the Parliament, and to take an oath, but not above halfe the City came there, ſo that thoſe that were abſent, they would have all their names given in, and thoſe that refuſed to come in, and ſtand for the King, their hou<g ref="char:EOLhyphen"/>ſes ſhould be ſearched and their Armes taken from them, ſo that here is a great diſtraction within this City, for the preſent I reſt</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> Henry Dickenſon.</signed>
+               <dateline>Yorke <date>Septem. 4 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
